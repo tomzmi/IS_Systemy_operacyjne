@@ -1,6 +1,6 @@
 # Lab 3 - Potokowanie poleceń. Wyrażenia regularne.
 
-## 1. Uruchamianie zadań w tle.
+## 1. Uruchamianie zadań w tle. 
 
 Jedną z wad pracy na jednym oknie konsoli jest konieczność uruchamiania poleceń po zakończeniu wykonania innej. Przynajmniej początkującym użytkownikom tak może się wydawać. Otóż istnieje mechanizm, który pozwala w prosty sposób uruchamiać zadania w tle i przełączać się między nimi.
 
