@@ -352,7 +352,7 @@ Oto przykłady użycia polecenia find:
 `find ~ -iname "*.txt" -type f -size +100k` - wyszuka wszystkie pliki zwykłe w katalogu domowym użytkownika (i jego podkatalogach), które mają rozszerzenie .txt - wielkość liter bez znaczenia - oraz rozmiar większy niż 100kB;  
 `find /tmp -type f -atime +2 -exec rm {} \; -print` - wyszuka wszystkie pliki zwykłe w katalogu /tmp (oraz jego podkatalogach), na których nie były wykonywane żadne operacje w ciągu ostatnich 48 godzin oraz usunie wszystkie odnalezione pliki; dodatkowy przełącznik -print powoduje, że zostaną wyświetlone nazwy odnalezionych plików, pomimo wykonania na nich dodatkowej operacji (tutaj rm).
 
-### **Inne przydatne polecenia powłoki**
+### **Inne przydatne polecenia powłoki** 
 
 `who` - wyświetla aktualnie zalogowanych użytkowników w systemie,  
 `id` - wyświetla informacje o identyfikatorze uzytkownika i grup, do których uzytkownik należy,  
