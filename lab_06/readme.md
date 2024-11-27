@@ -2,29 +2,6 @@
 
 ## **0. Zaliczenie przedmiotu.**
 
-* ### **0.1. Napisz skrypt według poniższych wymagań.**
-
-Napisz skrypt, który po uruchomieniu będzie wyświetlał menu z opcjami do wyboru postaci: 
-
-Wybierz figurę, której pole powierzchni chcesz obliczyć:  
-[1] kwadrat  
-[2] prostokąt  
-[3] koło  
-[q] wyjście z programu  
-
-W zależności od wybranej figury użytkownik zostanie poproszony o podanie wartości dla jej parametrów – dla kwadratu, długość boku a, dla prostokąta długość boków a i b, dla koła promień. 
-Po podaniu tych wartości skrypt obliczy pole powierzchni i ponownie wyświetli menu.
-
-* ### **0.2 Test**
-Wypełnij test dostępny pod adresem https://forms.gle/Jei8fC7QdvDY8Lck9
-
-
-## **1. Na rozluźnienie :)**
-
-* https://www.tecmint.com/20-funny-commands-of-linux-or-linux-is-fun-in-terminal/
-* http://smashingtips.com/linux/cool-terminal-commands-for-linux
-
-
 ## **2. Zarządzanie usługami w systemie Linux.**
 
 Usługi w systemie Ubuntu można uruchamiać i zatrzymywać przy użyciu kilku różnych poleceń powłoki. Aby wyświetlić listę dostępnych usług oraz ich status możemy użyć poniższego polecenia.
