@@ -1,6 +1,6 @@
 # Lab 2 - kontrola uprawnień w systemie Linux. Zarządzanie użytkownikami i grupami.
 
-## 1. Uprawnienia w systemie Linux
+## 1. Uprawnienia w systemie Linux 
 
 Podstawowy opis uprawnień został już przedstawiony w lab 1, ale warto je przypomnieć.
 Każdy zasób jest opisany za pomocą uprawnień `rwx`, które odpowiednio oznaczają:
