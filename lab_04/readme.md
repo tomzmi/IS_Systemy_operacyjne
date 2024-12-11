@@ -550,7 +550,7 @@ Jak powszechnie wiadomo skrypt/funkcja lub program zwraca wynik swego działania
 ```bash
 #!/bin/bash
 read a
-echo "Wpisałeś: $aA"
+echo "Wpisałeś: $a"
 ```
 Jeżeli nie zdefiniujemy zmiennej, której mają być przypisane dane wejściowe będą one przechowywane w zmiennej `$REPLY`.
 
@@ -754,7 +754,7 @@ done
 ```bash
 #!/bin/bash
 a=1
-while test $a le 8; do
+while test $a -le 8; do
 echo "\$a=$a"
 a=$(expr $a + 1)
 done
