@@ -9,8 +9,8 @@ Napisz skrypt, który będzie symulował zgadywankę liczbową. Niech wartość 
 Napisz skrypt, który będzie przyjmował z klawiatury kolejne liczby (nie musisz na razie sprawdzać czy faktycznie są to liczby) dopóki nie zostanie wpisana litera `Q` lub `q`. Po jej wpisaniu wyświetl ile było tych liczb oraz jaka jest ich średnia z dokładnością do 2-óch miejsc po przecinku.
 
 **Zadanie 3**  
-Zadanie polega na stworzeniu prostego skryptu backupu  
-1. Skrypt nazywamy `backup.sh` i umieszczamy w podfolderze `bin` w głównym katalogu użytkownika (należy stworzyć folder, jeżeli go nie ma). 
+Zadanie polega na stworzeniu prostego skryptu backupu
+1. Skrypt nazywamy `backup.sh` i umieszczamy w podfolderze `bin` w głównym katalogu użytkownika (należy stworzyć folder, jeżeli go nie ma).
 2. Sprawdź w pliku ~/.profile czy istnieje odpowiednia instrukcja dodająca folder `bin` do zmiennej `PATH`. 
 3. Uruchomienie skryptu z parametrem add i ścieżką do folderu/pliku (np. `backup add ~/skrypty/`) doda wpis (linię) do pliku `backup_sources.conf`, który powinien znajdować się w tym samym folderze co skrypt backup.sh.
 4. Niech 'kopie' będą umieszczane w folderze o nazwie `backup` w głównym katalogu użytkownika.
