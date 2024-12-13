@@ -4,7 +4,7 @@
 
 Instalacja narzędzia webmin i krótka prezentacja jego możliwości.
 
-Oficjalna strona projektu znajduje sie pod adresem http://www.webmin.com, a do instalacji wykorzystamy wpis w Webmin Wiki -> http://doxfer.webmin.com/Webmin/Installation.
+Oficjalna strona projektu znajduje sie pod adresem http://www.webmin.com, a do instalacji wykorzystamy wpis w Webmin Wiki -> https://webmin.com/download/
 
 **Ćwiczenie 2**  
 
