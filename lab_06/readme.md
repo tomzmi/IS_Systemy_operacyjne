@@ -1,6 +1,26 @@
 # Lab 6. Zarządzanie usługami. Zaliczenie przedmiotu.
 
 ## **0. Zaliczenie przedmiotu.**
+### **0.1. Napisz skrypt według poniższych wymagań.**
+
+Napisz skrypt, który po uruchomieniu będzie wyświetlał menu z opcjami do wyboru postaci:
+
+Wybierz figurę, której pole powierzchni chcesz obliczyć:
+
+[1] kwadrat
+
+[2] prostokąt
+
+[3] koło
+
+[q] wyjście z programu
+
+W zależności od wybranej figury użytkownik zostanie poproszony o podanie wartości dla jej parametrów – dla kwadratu, długość boku a, dla prostokąta długość boków a i b, dla koła promień.
+Po podaniu tych wartości skrypt obliczy pole powierzchni i ponownie wyświetli menu.
+
+### **0.2 Test**
+
+Wypełnij test dostępny pod adresem: https://forms.gle/W5Y7o1Fei6K5tpfp6
 
 ## **2. Zarządzanie usługami w systemie Linux.**
 
