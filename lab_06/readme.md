@@ -22,6 +22,10 @@ Po podaniu tych wartości skrypt obliczy pole powierzchni i ponownie wyświetli 
 
 Wypełnij test dostępny pod adresem: https://forms.gle/W5Y7o1Fei6K5tpfp6
 
+### **0.3 Przesłanie skryptu i zadań z zajęć**
+
+https://forms.gle/T7BRuTpepSfoerNF9
+
 ## **2. Zarządzanie usługami w systemie Linux.**
 
 Usługi w systemie Ubuntu można uruchamiać i zatrzymywać przy użyciu kilku różnych poleceń powłoki. Aby wyświetlić listę dostępnych usług oraz ich status możemy użyć poniższego polecenia.
